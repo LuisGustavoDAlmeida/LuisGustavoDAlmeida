@@ -5,14 +5,14 @@
   </p>
 </h2>
   
-```java
+```Java
 public class LuisGustavoDAlmeida {
   String name = "Luis Gustavo de Almeida";
   Integer age = 19;
   String area = "Former SRE";
   String city = "São Paulo - SP";
   List<String> stack = Arrays.asList("Java", "JavaScript", "CSS", "MySQL", "Node.Js", "Figma");
-  List<String> studying = Arrays.asList("Java", "Terraform", "AWS");
+  List<String> studying = Arrays.asList("Spring", "Terraform", "AWS");
 }
 ```
 
