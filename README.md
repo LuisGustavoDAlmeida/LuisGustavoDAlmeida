@@ -23,6 +23,10 @@ public class LuisGustavoDAlmeida {
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGustavoDAlmeida&layout=compact)
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=LuisGustavoDAlmeida&label=Profile%20Views&color=12&icon=5&pretty=false" />
+</a>
+
 <!--
 ### Tecnologias utilizadas:
 <div style= "display: inline_block">
