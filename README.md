@@ -1,7 +1,7 @@
 <h1> <b> Hello There </b> 🧐 </h1>
 <h2>
   <p>
-    Estudante de Análise e Desenvolvimento de Sistemas na SpTech School (3° Semestre). Estagiário de SRE na empresa Vindi.
+    Estudante de Análise e Desenvolvimento de Sistemas na SpTech School (4° Semestre). Estagiário de SRE na empresa Vindi.
   </p>
 </h2>
   
@@ -11,8 +11,8 @@ public class LuisGustavoDAlmeida {
   Integer age = 20;
   String area = "Former SRE";
   String city = "São Paulo - SP";
-  List<String> stack = Arrays.asList("Java", "JavaScript", "CSS", "MySQL", "Node.Js", "Figma");
-  List<String> studying = Arrays.asList("Spring", "Terraform", "AWS", "AzureDevOps");
+  List<String> stack = Arrays.asList("Java", "JavaScript", "CSS", "MySQL", "Node.Js", "Figma", "React", "Spring");
+  List<String> studying = Arrays.asList("Terraform", "AWS", "AzureDevOps", "Kotlin");
 }
 ```
 
