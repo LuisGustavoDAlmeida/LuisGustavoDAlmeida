@@ -12,7 +12,7 @@ public class LuisGustavoDAlmeida {
   String area = "Former SRE";
   String city = "São Paulo - SP";
   List<String> stack = Arrays.asList("Java", "JavaScript", "CSS", "MySQL", "Node.Js", "Figma", "React", "Spring");
-  List<String> studying = Arrays.asList("Terraform", "AWS", "AzureDevOps", "Kotlin");
+  List<String> studying = Arrays.asList("Terraform", "AWS", "Linux", "Kotlin");
 }
 ```
 
