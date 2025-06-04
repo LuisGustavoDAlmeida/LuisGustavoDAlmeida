@@ -1,7 +1,8 @@
 <h1> <b> Hello There </b> 🧐 </h1>
 <h2>
   <p>
-    Estudante de Análise e Desenvolvimento de Sistemas na SpTech School (4° Semestre). Estagiário de SRE na empresa Vindi.
+    Estudante de Análise e Desenvolvimento de Sistemas na SpTech School (4° Semestre). 
+    Atuação em SRE e Fullstack com foco em Backend
   </p>
 </h2>
   
