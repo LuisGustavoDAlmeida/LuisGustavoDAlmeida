@@ -59,7 +59,7 @@ ERP para prestadores de serviço de pequeno e médio porte, permitindo gestão d
 🛠 Tecnologias: HTML | CSS | JavaScript | React | Spring Boot | Java | Terraform | AWS | Kotlin | Jetpack Compose | MySQL  
 🔗 Repositório: https://github.com/ArchFacts
 
-## Contatos
+## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-gustavo-almeida-8728ab2a4/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lugalmeida177@gmail.com)
 
