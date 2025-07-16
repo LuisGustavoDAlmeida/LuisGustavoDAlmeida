@@ -1,55 +1,66 @@
-<h1> <b> Hello There </b> 🧐 </h1>
+<h1> <b> Hello There, I'm Luis Gustavo </b> 🧐 </h1>
 <h2>
   <p>
-    Estudante de Análise e Desenvolvimento de Sistemas na SpTech School (4° Semestre). 
-    Atuação em SRE e Fullstack com foco em Backend
+    Graduado em Análise e Desenvolvimento de Sistemas na SpTech (São Paulo Tech School) 
+    Experiência com SRE na Vindi
   </p>
 </h2>
   
-```Java
-public class LuisGustavoDAlmeida {
-  String name = "Luis Gustavo de Almeida";
-  Integer age = 20;
-  String area = "Former SRE";
-  String city = "São Paulo - SP";
-  List<String> stack = Arrays.asList("Java", "JavaScript", "CSS", "MySQL", "Node.Js", "Figma", "React", "Spring");
-  List<String> studying = Arrays.asList("Terraform", "AWS", "Linux", "Kotlin");
-}
-```
+## About me
+Sou Luis Gustavo de Almeida. Um desenvolvedor Fullstack com ênfase em Cloud e Backend. Tenho 2 anos de experiência construindo projetos escaláveis em diferentes setores. Já trabalhei em uma Fintech por 1 ano. Gosto de escrever código e fazer soluções para todos. Realmente gosto de mergulhar no código e me desgastar nisso.
 
-### Social Media:
-<a href="https://www.linkedin.com/in/luis-gustavo-almeida-8728ab2a4/"> ![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+🎯 Funções: Site Reliability Engineer, Fullstack Developer
 
-![LuisGustavoDAlmeida GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisGustavoDAlmeida&show_icons=true&bg_color=00000000)
+💻 Linguagens: Java, JavaScript, Kotlin, SQL
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGustavoDAlmeida&layout=compact)
+🖥️ Frameworks & Libs: Spring, React
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=LuisGustavoDAlmeida&label=Profile%20Views&color=12&icon=5&pretty=false" />
-</a>
+☁️ Cloud & DevOps: AWS, Terraform, Linux
 
-<!--
-### Tecnologias utilizadas:
-<div style= "display: inline_block">
-  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-</div>
--->
+🛠️ Plataformas e Ferramentas: Git, CI/CD, Docker, Nginx
 
-<!--
-**LuisGustavoDAlmeida/LuisGustavoDAlmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente estou aberto à propostas para trabalhar em projetos em Backend e soluções Cloud.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack & Tools:
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+[![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
+![CI/CD](https://img.shields.io/badge/CI/CD-000000.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162.svg?style=for-the-badge&logo=java&logoColor=white)
+
+
+## 📌 Main Projects:
+
+🔹GranjaTech  
+Sistema de monitoramento de ovos em granjas, utilizando sensores de temperatura e umidade com Arduino, garantindo o controle e preservação da produção.  
+🛠 Tecnologias: Arduino | HTML | CSS | JavaScript | MVC | MySQL | Node.js  
+🔗 Repositório: https://github.com/ProjetoGranjaTech-Sprint-2
+
+
+🔹 Re;Data  
+Monitoramento de hardware para empresas que utilizam máquinas para processos ETL, com ejeção de dispositivos USB PnP via interface web e terminal PowerShell integrado com Java.  
+🛠 Tecnologias: HTML | CSS | JavaScript | MVC | MySQL | Node.js | Java | WebDataViz (API Hardware)  
+🔗 Repositório: https://github.com/Sprint-2-Semestre-SpTech-School
+
+
+🔹 ArchFacts  
+ERP para prestadores de serviço de pequeno e médio porte, permitindo gestão de chamados, tarefas, controle de datas e um Dashboard financeiro para fluxo de caixa.  
+🛠 Tecnologias: HTML | CSS | JavaScript | React | Spring Boot | Java | Terraform | AWS | Kotlin | Jetpack Compose | MySQL  
+🔗 Repositório: https://github.com/ArchFacts
+
+## Contatos
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-gustavo-almeida-8728ab2a4/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lugalmeida177@gmail.com)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisGustavoDAlmeida&show_icons=true&theme=radical)
