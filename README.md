@@ -7,7 +7,7 @@
 </h2>
   
 ## About me
-Sou Luis Gustavo de Almeida. Um desenvolvedor Fullstack com ênfase em Cloud e Backend. Tenho 2 anos de experiência construindo projetos escaláveis em diferentes setores. Já trabalhei em uma Fintech por 1 ano. Gosto de escrever código e fazer soluções para todos. Realmente gosto de mergulhar no código e me desgastar nisso.
+Sou Luis Gustavo de Almeida. Um desenvolvedor Fullstack com ênfase em Cloud e Backend. Tenho 2 anos de experiência construindo projetos escaláveis em diferentes setores. Trabalhei em uma Fintech por 1 ano e gosto de escrever código e fazer soluções que impactem pessoas. Dedicação extrema para enfrentar todos os desafios.
 
 🎯 Funções: Site Reliability Engineer, Fullstack Developer
 
