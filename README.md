@@ -42,19 +42,19 @@ Atualmente estou aberto à propostas para trabalhar em projetos em Backend e sol
 
 ## 📌 Main Projects:
 
-🔹GranjaTech  
+## 🔹GranjaTech  
 Sistema de monitoramento de ovos em granjas, utilizando sensores de temperatura e umidade com Arduino, garantindo o controle e preservação da produção.  
 🛠 Tecnologias: Arduino | HTML | CSS | JavaScript | MVC | MySQL | Node.js  
 🔗 Repositório: https://github.com/ProjetoGranjaTech-Sprint-2
 
 
-🔹 Re;Data  
+## 🔹 Re;Data  
 Monitoramento de hardware para empresas que utilizam máquinas para processos ETL, com ejeção de dispositivos USB PnP via interface web e terminal PowerShell integrado com Java.  
 🛠 Tecnologias: HTML | CSS | JavaScript | MVC | MySQL | Node.js | Java | WebDataViz (API Hardware)  
 🔗 Repositório: https://github.com/Sprint-2-Semestre-SpTech-School
 
 
-🔹 ArchFacts  
+## 🔹 ArchFacts  
 ERP para prestadores de serviço de pequeno e médio porte, permitindo gestão de chamados, tarefas, controle de datas e um Dashboard financeiro para fluxo de caixa.  
 🛠 Tecnologias: HTML | CSS | JavaScript | React | Spring Boot | Java | Terraform | AWS | Kotlin | Jetpack Compose | MySQL  
 🔗 Repositório: https://github.com/ArchFacts
